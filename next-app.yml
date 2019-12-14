@@ -1,4 +1,4 @@
 application:
   name: git-learn-application
   port: 30060
-  
+  active: production
